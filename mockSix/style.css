@@ -1,0 +1,8 @@
+.container {
+  text-align: center;
+}
+
+.dark_mode {
+  background-color: gray;
+  color: white;
+}
